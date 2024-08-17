@@ -2,27 +2,39 @@
   
   
   {
-    "name": "ResumeGen",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "resumegen",
-    "category": "mern",
+    "name": "Hotel Booking System",
+    "desc": "Developed a hotel booking system using HTML,CSS,JavaScript, Bootstrap, jQuery, and PHP with a user-friendly interface and responsive design",
+    "image": "3",
+  
     "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+      "view": "https://travel-planners-web.netlify.app/",
+      "code": "https://github.com/malinduL/Hotel-Booking-System.git"
+    }
+  },
+  
+   {
+    "name": "SHEINA Fashion Website",
+    "desc": "Contributed to a fashion e-commerce platform using JSON, HTML, CSS, JavaScript, and PHP, focusing on data handling, user-friendly interfaces, and seamless account management.",
+    "image": "SHEINA",
+    "category": "basicweb",
+    "links": {
+      "view":"https://sheina.netlify.app/",
+      "code": "https://github.com/malinduL/SHEINA-Fashion-Website.git"
+     
     }
   },
   
   {
-    "name": "JavaScript Projects Website",
-    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
-    "image": "jspro",
+    "name": "Royal Spice Website",
+    "desc": "I developed the Royal Spice website, featuring secure authentication and booking, using HTML, CSS, PHP, and JavaScript.",
+    "image": "RoyalSpice",
     "category": "basicweb",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+      "view":"https://royal-spice.netlify.app/",
+      "code": "https://github.com/malinduL/ROYAL-SPICE-WEBSITE.git"
+
     }
   }
-  
   
   
   
