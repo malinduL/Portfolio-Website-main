@@ -9,5 +9,9 @@ Portfolio Website built using HTML5, CSS3, JavaScript, and jQuery.
 <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 
 ## 📌 Sneak Peek of Main Page 🙈 :
+![123](https://github.com/user-attachments/assets/58ff023a-b323-419d-a8ba-9509d83e7fe3)
 
+## 📌 Projects :
+
+![500](https://github.com/user-attachments/assets/9e065210-6abd-4fad-ba40-da44b5a80992)
 
