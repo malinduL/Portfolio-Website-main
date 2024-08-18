@@ -15,3 +15,17 @@ Portfolio Website built using HTML5, CSS3, JavaScript, and jQuery.
 
 ![500](https://github.com/user-attachments/assets/9e065210-6abd-4fad-ba40-da44b5a80992)
 
+
+<h2>📬 Contact</h2>
+
+If you want to contact me, you can reach me through below social handles.
+
+<div align="center">
+  
+<a  href="https://www.linkedin.com/in/malindu-lakshan-jm/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:malindulakshan3002@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+</div>
+
+© 2024 Malindu Lakshan ❤️
+
